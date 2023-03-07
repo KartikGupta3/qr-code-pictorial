@@ -1,29 +1,30 @@
 body{
   background-color: #8cc0d8;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .try{
-  position: absolute;
+  position: relative;
+  left: 15px;
+  top:5px;
   width: 267px;
   height: 268px;
-  left: 16px;
-  top: 13px;
   border-radius: 10px;
 }
 .news{
-  position: relative;
   width: 299px;
   height: 455px;
-  left: 600px;
-  top: 150px;
   background: #FFFFFF;
   border-radius: 20px;
 }
 .was1{
-  position: absolute;
+  position: relative;
+  left: 25px;
+  top:15px;
   width: 269px;
   height: 81px;
-  left: 30px;
-  top: 300px;
 
   font-family: 'Poppins';
   font-style: normal;
@@ -34,11 +35,11 @@ body{
   color: #645B5B;
 }
 .was2{
-  position: absolute;
+  position: relative;
+  left: 25px;
+  bottom: 15px;
   width: 210px;
   height: 37px;
-  left: 35px;
-  top: 371px;
 
   font-family: 'Poppins';
   font-style: normal;
