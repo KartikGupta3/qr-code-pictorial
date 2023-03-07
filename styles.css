@@ -1,0 +1,52 @@
+body{
+  background-color: #8cc0d8;
+}
+.try{
+  position: absolute;
+  width: 267px;
+  height: 268px;
+  left: 16px;
+  top: 13px;
+  border-radius: 10px;
+}
+.news{
+  position: relative;
+  width: 299px;
+  height: 455px;
+  left: 600px;
+  top: 150px;
+  background: #FFFFFF;
+  border-radius: 20px;
+}
+.was1{
+  position: absolute;
+  width: 269px;
+  height: 81px;
+  left: 30px;
+  top: 300px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 25px;
+
+  color: #645B5B;
+}
+.was2{
+  position: absolute;
+  width: 210px;
+  height: 37px;
+  left: 35px;
+  top: 371px;
+
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+
+  color: rgba(0, 0, 0, 0.35);
+
+
+}
